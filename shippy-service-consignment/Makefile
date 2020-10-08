@@ -20,4 +20,8 @@ test:
 
 .PHONY: docker
 docker:
-	docker build . -t helloworld:latest
+	docker build -t shippy-service-consignment .
+
+.PHONY: docker-run
+docker-run:
+	docker run -p 50051:50051 shippy-service-consignment
