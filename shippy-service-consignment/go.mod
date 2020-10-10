@@ -6,6 +6,7 @@ replace google.golang.org/grpc => google.golang.org/grpc v1.26.0
 
 require (
 	github.com/aws/aws-sdk-go v1.35.7 // indirect
+	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/golang/protobuf v1.4.2
 	github.com/golang/snappy v0.0.2 // indirect
 	github.com/klauspost/compress v1.11.1 // indirect

@@ -8,6 +8,7 @@ require (
 	github.com/aws/aws-sdk-go v1.35.7 // indirect
 	github.com/coreos/etcd v3.3.25+incompatible // indirect
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf // indirect
+	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/go-git/go-git/v5 v5.2.0 // indirect
 	github.com/gogo/protobuf v1.3.1 // indirect
